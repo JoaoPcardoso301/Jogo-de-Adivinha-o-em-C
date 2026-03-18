@@ -7,7 +7,7 @@ Jogo simples feito em C onde o jogador precisa adivinhar um número aleatório g
 - O programa gera um número aleatório
 - O jogador tenta adivinhar o número
 - O sistema dá dicas:
-  - "Maior" ou "Menor"
+  * "Maior" ou "Menor"
 - O jogo continua até o jogador acertar
 
 ## Tecnologias
